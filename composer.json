@@ -1,0 +1,20 @@
+{
+    "name": "jagaad/module_3_project",
+    "description": "Web shop using oop",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Module3Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ljubomir Stevancevic",
+            "email": "ljubomir.stevancevic@gmail.com"
+        }
+    ],
+    "require": {
+      "ext-pdo": "*",
+      "ext-readline": "*"
+    }
+}
