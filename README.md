@@ -35,7 +35,7 @@ Once you have installed XAMPP or MAMP and Composer, you can proceed with setting
 6. Navigate to ***Carty-Craft*** in Git Bash
 
 7. Execute '***create_tables.php***' file inside database folder. Do it by typing command:
-    `php database\create_tables.php`
+    `php database/create_tables.php`
 
     *This code is a PHP script that creates a database and adds products to a '***products***' table. It first reads an SQL file which is located in the same folder as this code and contains the necessary commands to create the database. Then, it establishes a connection to the database using a PDO (PHP Data Object). After that, it prompts the user if they would like to re-create the database. Finally, it executes the SQL commands from the file to create the database.*
 
