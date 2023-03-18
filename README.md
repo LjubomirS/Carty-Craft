@@ -1,5 +1,5 @@
 
-# Module3Project -> Carty-Craft
+# Carty-Craft
 
 This project is a web application that contains some features of online shopping. With this application, users will be able to create, read, update, and delete products, view the product catalog, add products to the cart, view the products added to the cart where they can update the quantities or remove products, view the checkout page where they can see the summary of their order and a button to complete the order, and view a page containing all completed orders.
 
